@@ -15,5 +15,5 @@ I'm a Software Engineer, and Growth Marketer, who currently works as a Product &
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priceless10&show_icons=true&include_all_commits=true&hide_border=true" alt="Jessica's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priceless10 &langs_count=8&layout=compact&hide_border=true" alt="Jessica's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priceless10&show_icons=true&include_all_commits=true&hide_border=true" alt="Priceless10's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priceless10 &langs_count=8&layout=compact&hide_border=true" alt="Priceless's GitHub stats" /> |
 | ------------- | ------------- |
